@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8D396726-1AD7-39B5-1A83-CED97ED4DB14}") = "Wrecked Cars", "Assembly-CSharp.csproj", "{C4D47B57-EF0A-725A-29C6-30EFF1EF998C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D47B57-EF0A-725A-29C6-30EFF1EF998C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D47B57-EF0A-725A-29C6-30EFF1EF998C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D47B57-EF0A-725A-29C6-30EFF1EF998C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D47B57-EF0A-725A-29C6-30EFF1EF998C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
